@@ -42,4 +42,11 @@ blockquote{
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
   }
+  .logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin-top: -6px;
+}
   
